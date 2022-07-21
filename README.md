@@ -2,11 +2,11 @@
 
 A repo dedicated to different approaches in building a Persian Generative Chatbot.
 
-## Data
+### Data
 
 We need a dataset of conversation pairs to build a chatbot.
 
-# 1- Ninisite
+### 1- Ninisite
 
 [ninisite](ninisite.com) is a persian forum with millions of conversation pairs on different life-style topics. We wrote a [simple script](/data/ninisite/) to crawl the conversation pairs, like the following sample:
 
@@ -25,7 +25,7 @@ We need a dataset of conversation pairs to build a chatbot.
 }
 ```
 
-The following table shows some stats on the process of crawling the dataset (The table is getting updatad constantly)
+The following table shows some stats on the process of crawling the dataset (The table is getting updatad constantly).
 
 | Total Targeted Topics |  Crawled  | Crawled Conversation Pairs |  Size  |
 | :-------------------: | :-------: | :------------------------: | :----: |
