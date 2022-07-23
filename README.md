@@ -27,6 +27,6 @@ We need a dataset of conversation pairs to build a chatbot.
 
 The following table shows some stats on the process of crawling the dataset (The table is getting updatad constantly).
 
-| Total Targeted Topics |  Crawled  | Crawled Conversation Pairs |  Size  |
-| :-------------------: | :-------: | :------------------------: | :----: |
-|        636921         | 8871 (1%) |           206507           | 175 MB |
+| Total Targeted Topics |  Crawled   | Crawled Conversation Pairs |  Size  |
+| :-------------------: | :--------: | :------------------------: | :----: |
+|        636921         | 18307 (3%) |           456036           | 318 MB |
