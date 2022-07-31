@@ -29,4 +29,4 @@ The following table shows some stats on the process of crawling the dataset (The
 
 | Total Targeted Topics |  Crawled   | Crawled Conversation Pairs |  Size  |
 | :-------------------: | :--------: | :------------------------: | :----: |
-|        636921         | 18307 (3%) |           456036           | 318 MB |
+|        636921         | 48708 (7%) |          1221025           | 778 MB |
