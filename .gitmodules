@@ -1,0 +1,3 @@
+[submodule "model/minGPT"]
+	path = model/minGPT
+	url = git@github.com:schoobani/minGPT.git
